@@ -1,9 +1,10 @@
-QuickCure 🏥
+**QuickCure 🏥**
 
 QuickCure is a full-stack healthcare platform built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). 
 It provides a centralized platform for patients to access healthcare services, connect with doctors, manage appointments, order medicines, and book laboratory tests.
 
-✨ Features
+
+**✨ Features**
 
 👤 User / Patient Dashboard
 - User Sign-Up and authentication
